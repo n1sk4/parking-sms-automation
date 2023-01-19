@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Parking SMS</string>
+    <string name="registration">Registration</string>
+    <string-array name="parking_zone">
+        <item>I. zona</item>
+        <item>I. zona (1/2h)</item>
+        <item>I. zona (Dubravkin put)</item>
+        <item>II.1 zona</item>
+        <item>II.1 zona (trg S.Radića)</item>
+        <item>Autobusni kolodvor</item>
+        <item>II.3 zona (Rebro)</item>
+        <item>III. zona</item>
+        <item>IV.1 zona</item>
+        <item>IV.2 zona</item>
+        <item>IV.2 zona (Paromlin)</item>
+    </string-array>
+    <string-array name="phone_numbers_zones">
+        <item>700101</item>
+        <item>700102</item>
+        <item>700103</item>
+        <item>700104</item>
+        <item>700105</item>
+        <item>700106</item>
+        <item>700107</item>
+        <item>700108</item>
+        <item>700109</item>
+        <item>700111</item>
+    </string-array>
+
+</resources>

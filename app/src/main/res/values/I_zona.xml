@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="street_names">
+        <item>Kijevska ulica</item>
+        <item>Amruševa</item>
+        <item>Antuna Vrančića</item>
+        <item>Arnoldova</item>
+        <item>Babukićeva</item>
+        <item>Bakačeva</item>
+        <item>Banjavčićeva</item>
+        <item>Barčićeva</item>
+        <item>Bauerova</item>
+        <item>Berislavićeva</item>
+        <item>Biankinijeva</item>
+        <item>Blažekova</item>
+        <item>Bogišićeva</item>
+        <item>Bogovićeva</item>
+        <item>Boškovićeva</item>
+        <item>Botićev trg</item>
+        <item>Branimirova (od Petrinjske do Heinzelove – sjeverna strana)</item>
+        <item>Branjugova</item>
+        <item>Britanski trg</item>
+        <item>Bulićeva</item>
+        <item>Cesarčeva</item>
+        <item>Crnatkova</item>
+        <item>Crvenog križa</item>
+        <item>Dalmatinska</item>
+        <item>Degenova</item>
+        <item>Derenčinova</item>
+        <item>Deželićeva</item>
+        <item>Dežmanova</item>
+        <item>Dolac</item>
+        <item>Draškovićeva</item>
+        <item>Dubravkin put (svakog dana od 07–24 h)</item>
+        <item>Dukljaninova</item>
+        <item>Đorđićeva</item>
+        <item>Erdodyeva</item>
+        <item>Fabkovićeva</item>
+        <item>Fišerova</item>
+        <item>Frankopanska</item>
+        <item>Gajeva</item>
+        <item>Gundulićeva</item>
+        <item>Gupčeva zvijezda</item>
+        <item>Harmica</item>
+        <item>Hatzova</item>
+        <item>Haulikova</item>
+        <item>Hebrangova</item>
+        <item>Heinzelova (između Zvonimirove i Branimirove - zapadna strana)</item>
+        <item>Heinzelova (od Nemčićeve do Zvonimirove)</item>
+        <item>Hochmannova</item>
+        <item>Hrvojeva</item>
+        <item>Iblerov trg</item>
+        <item>Ilica (od Trga J. Jelačića do Rep.Austrije)</item>
+        <item>Ivana Belostenca</item>
+        <item>Ivana Znike</item>
+        <item>Ive Mallina</item>
+        <item>Jagićeva</item>
+        <item>Jukićeva</item>
+        <item>Jurišićeva</item>
+        <item>Jurjevska (od Mlinarske do k.br. 41B)</item>
+        <item>Kačićeva</item>
+        <item>Kaptol</item>
+        <item>Katančićeva</item>
+        <item>Klaićeva</item>
+        <item>Kordunska</item>
+        <item>Kožarska</item>
+        <item>Krajiška</item>
+        <item>Križanićeva</item>
+        <item>Kružićeva</item>
+        <item>Krvavi most</item>
+        <item>Kumičićeva</item>
+        <item>Kurelčeva</item>
+        <item>Kvaternikov trg</item>
+        <item>Laginjina</item>
+        <item>Lepušićeva</item>
+        <item>Livadićeva</item>
+        <item>Lopašićeva</item>
+        <item>Makančeva</item>
+        <item>Mala ulica</item>
+        <item>Margaretska</item>
+        <item>Marićev prolaz</item>
+        <item>Martićeva</item>
+        <item>Marulićev trg</item>
+        <item>Masarykova</item>
+        <item>Matice hrvatske</item>
+        <item>Mažuranićev trg</item>
+        <item>Medulićeva</item>
+        <item>Medvedgradska ulica</item>
+        <item>Mihanovićeva</item>
+        <item>Mije Sinkovića</item>
+        <item>Mikloušićeva</item>
+        <item>Mlinarska cesta</item>
+        <item>Mrazovićeva</item>
+        <item>Nemčićeva</item>
+        <item>Nodilova</item>
+        <item>Nova Ves</item>
+        <item>Novakova</item>
+        <item>Obrtnički prolaz</item>
+        <item>Opatovina</item>
+        <item>Ožegovićeva</item>
+        <item>Palmotićeva</item>
+        <item>Perkovčeva</item>
+        <item>Petrićeva</item>
+        <item>Petrinjska</item>
+        <item>Pierottijeva</item>
+        <item>Plemićeva</item>
+        <item>Pod zidom</item>
+        <item>Praška</item>
+        <item>Preobraženska</item>
+        <item>Preradovićeva</item>
+        <item>Primorska</item>
+        <item>Prolaz sestara Baković</item>
+        <item>Račkoga</item>
+        <item>Rakovčeva</item>
+        <item>Ratkajev prolaz</item>
+        <item>Ribnjak</item>
+        <item>Rokov perivoj</item>
+        <item>Rokova ulica</item>
+        <item>Rooseveltov trg</item>
+        <item>Runjaninova</item>
+        <item>Rusanova (od Rakovčeve do Zvonimirove)</item>
+        <item>Savska (od Ulice Izidora Kršnjavog do Jukićeve)</item>
+        <item>Sermageova</item>
+        <item>Skalinska</item>
+        <item>Smičiklasova</item>
+        <item>Splavnica</item>
+        <item>Stančićeva</item>
+        <item>Starčevićev trg</item>
+        <item>Streljačka</item>
+        <item>Strossmayerov trg</item>
+        <item>Svačićev trg</item>
+        <item>Šenoina</item>
+        <item>Širolina</item>
+        <item>Škrlčeva (od Šulekove do Kušlanove)</item>
+        <item>Šoštarićeva</item>
+        <item>Štoosova (od Sermageove do Kušlanove)</item>
+        <item>Šubićeva</item>
+        <item>Šulekova (od Maksimirske do Zvonimirove)</item>
+        <item>Švearova</item>
+        <item>Teslina</item>
+        <item>Tkalčićeva</item>
+        <item>Tomašićeva</item>
+        <item>Tomićeva (osim Tomićeva 12a)</item>
+        <item>Tomislavov trg</item>
+        <item>Trg bana J. Jelačića</item>
+        <item>Trg hrvatskih velikana</item>
+        <item>Trg Petra Krešimira IV.</item>
+        <item>Trg Petra Preradovića</item>
+        <item>Trg Republike Hrvatske</item>
+        <item>Trg svibanjskih žrtava 1995.</item>
+        <item>Trg Vladka Mačeka</item>
+        <item>Trg žrtava fašizma</item>
+        <item>Tuškanova</item>
+        <item>Tvrtkova</item>
+        <item>Ulica Ante Kovačića</item>
+        <item>Ulica Bartola Kašića</item>
+        <item>Ulica baruna Trenka</item>
+        <item>Ulica Elenore Patačić</item>
+        <item>Ulica fra Filipa Grabovca</item>
+        <item>Ulica Grgura Ninskog</item>
+        <item>Ulica Ivana Gorana Kovačića</item>
+        <item>Ulica Ivana Trnskog</item>
+        <item>Ulica Izidora Kršnjavog</item>
+        <item>Ulica kneza Borne</item>
+        <item>Ulica kneza Domagoja</item>
+        <item>Ulica kneza Mislava</item>
+        <item>Ulica kneza Mutimira</item>
+        <item>Ulica kneza Trpimira</item>
+        <item>Ulica kneza Višeslava</item>
+        <item>Ulica kralja Držislava</item>
+        <item>Ulica kraljice Jelene</item>
+        <item>Ulica Ljudevita Posavskog</item>
+        <item>Ulica neznane junakinje</item>
+        <item>Ulica Republike Austrije</item>
+        <item>Ulica Šandora Brešćenskog</item>
+        <item>Ulica Vladimira Nazora (od Britanskog trga do Zamenhofove)</item>
+        <item>Utješinovićeva</item>
+        <item>Varšavska</item>
+        <item>Vlaška</item>
+        <item>Vodnikova</item>
+        <item>Vojnovićeva</item>
+        <item>Vrbanićeva</item>
+        <item>Vukotinovićeva</item>
+        <item>Zavojna</item>
+        <item>Zavrtnica (od Banjavčićeve do Branimirove)</item>
+        <item>Zrinjevac</item>
+        <item>Zvonarnička</item>
+        <item>Zvonimirova (od Heinzelove do Kušlanove – sjeverna strana)</item>
+        <item>Zvonimirova (od Trga žrtava fašizma do Heinzelove)</item>
+        <item>Žerjavićeva</item>
+        <item>Žigrovićeva</item>
+    </string-array>
+</resources>
