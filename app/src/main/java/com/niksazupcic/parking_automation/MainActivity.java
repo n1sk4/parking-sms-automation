@@ -187,21 +187,19 @@ public class MainActivity extends AppCompatActivity {
 
     private void SendDialog(String registration, String parkingZone){
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Send");
+        builder.setTitle("Pay parking:");
         if(registration.trim().length() == 0 || parkingZone.trim().length() == 0){
             Toast.makeText(this, "Nothing to send", Toast.LENGTH_SHORT).show();
             return;
         }
-        builder.setMessage(
-                "You will pay parking for "
-                + registration
+        builder.setMessage( registration + "\n\n"
                 + "in parking zone: "
                 + parkingZone
         );
         builder.setNegativeButton("Discard", (dialog, which)->{
             //do nothing
         });
-        builder.setPositiveButton("Send", (dialog, which)->{
+        builder.setPositiveButton("Pay", (dialog, which)->{
             SendSMS();
         });
         builder.create().show();
